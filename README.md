@@ -1,4 +1,4 @@
 lacaja
 ======
 
-caja de ahorros
+Ejemplo de la caja de ahorros. Esto es solo para pruebas.
